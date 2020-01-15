@@ -1,3 +1,4 @@
 # hello-world
-A short description \n
+A short description
+
 A bit about myself
